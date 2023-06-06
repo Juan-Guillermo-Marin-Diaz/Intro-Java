@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class GradosFahrenheit {
+public class GradosFahrenheit_04 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
