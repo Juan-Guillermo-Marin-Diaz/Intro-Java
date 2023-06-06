@@ -9,7 +9,7 @@ public class BuscarNumeroEnVector_16 {
         Scanner scan = new Scanner(System.in);
         Random random = new Random();
 
-        System.out.println("Por favor ingrese el tamaño del vector");
+        System.out.println("Por favor ingrese el tamaño  kkkkk del vector");
         int tamaño = scan.nextInt();
 
         int [] vector = llenarVector(tamaño);
